@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyZakat</string>
+    <string-array name="gold_types">
+        <item>Keep</item>
+        <item>Wear</item>
+    </string-array>
+</resources>
