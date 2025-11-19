@@ -32,4 +32,4 @@ WAN FATIN AISYAH — 2024767133
 
 ## Website
 
-[https://github.com/Twhzuww/MyZakat](https://github.com/Twhzuww/ZakatCalculator)
+[https://github.com/Twhzuww/MyZakat](https://github.com/Twhzuww/MyZakat)
